@@ -5,7 +5,7 @@
 
 #### 🌱 Details about me: 
 
-- I am currently a master’s student at Beijing University of Technologyof China.
+- I am currently a master’s student at Beijing University of Technology of China.
 - I am currently interested in AI Infra, including **Model Compression**, **Quantization**, **Inference**, etc.
 - I am an open source enthusiast and a contributor to open source communities like DeepSpeed and OpenMMLab.
 - My Skills: Python/Linux(proficient), C++/CUDA(basic)
