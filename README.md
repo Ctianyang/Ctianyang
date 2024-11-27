@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋 
 
-<!--
-**Ctianyang/Ctianyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### This is CTianyang!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 Details about me: 
+
+- I am currently a master’s student at Beijing University of Technologyof China.
+- I am currently interested in AI Infra, including **Model Compression**, **Quantization**, **Inference**, etc.
+- I am an open source enthusiast and a contributor to open source communities like DeepSpeed and OpenMMLab.
+- My Skills: Python/Linux(proficient), C++/CUDA(basic)
+
+#### :muscle: Things I am challenging myself with:
+
+- Waking up earlier to make good use of the day
+- Learning relevant knowledge about AI Infra and model quantization every day
+
+<p>
+	<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=CTianyang&show_icons=true&hide_border=true" />
