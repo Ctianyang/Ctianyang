@@ -14,6 +14,3 @@
 
 - Waking up earlier to make good use of the day.
 - Learning relevant knowledge about AI Infra and model quantization every day.
-
-<p>
-	<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=CTianyang&show_icons=true&hide_border=true" />
